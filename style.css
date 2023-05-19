@@ -1,0 +1,5 @@
+#wrap {
+  padding: var(--contentSpacing);
+  border: 1px solid var(--accentColor);
+  border-radius: var(--borderRadius);
+}
